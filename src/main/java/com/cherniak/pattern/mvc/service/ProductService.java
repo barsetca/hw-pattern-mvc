@@ -1,7 +1,7 @@
-package com.cherniak.pattern.mvc;
+package com.cherniak.pattern.mvc.service;
 
-import com.cherniak.geek.market.Product;
-import com.cherniak.geek.market.ProductRepository;
+import com.cherniak.pattern.mvc.repository.ProductRepository;
+import com.cherniak.pattern.mvc.model.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

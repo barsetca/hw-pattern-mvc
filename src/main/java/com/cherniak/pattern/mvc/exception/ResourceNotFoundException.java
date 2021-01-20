@@ -1,4 +1,4 @@
-package com.cherniak.pattern.mvc;
+package com.cherniak.pattern.mvc.exception;
 
 public class ResourceNotFoundException extends RuntimeException {
 
