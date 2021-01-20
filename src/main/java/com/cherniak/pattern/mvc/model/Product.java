@@ -1,4 +1,4 @@
-package com.cherniak.pattern.mvc;
+package com.cherniak.pattern.mvc.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
